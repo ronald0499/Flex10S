@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+*{
+    margin: 0px;
+}
+
+header {
+    position: relative;
+    height: 100px;
+    width: 1024px;
+    background-color: #222222;
+}
+
+.logo {
+    position: absolute;
+    margin: 10px 0px 10px 20px;
+}
+
+.enlace {
+    height: 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.espacio {
+    margin: 0px 15px 0px 0px;
+}
+
+div {
+    padding: 5px;
+    color: #F3F3F3;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 19px;
+}
+
+main {
+    height: 420px;
+    width: 1024px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #E5E5E5;
+}
+
+span {
+    width: 491px;
+    height: 350px;
+    margin: 0px 5px 0px 0px;
+}
+
+.group1 {
+    width: 491px;
+    height: 350px;
+    background-color: #FFFFFF;
+    padding: 0px;
+}
+
+p {
+    position: absolute;
+    width: 350.64px;
+    left: 38.98px;
+    top: 155px;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 28px;
+    letter-spacing: -1.5px;
+    color: #FC200C;
+}
+
+.white {
+    color: white;
+}
+
+.titulo3 {
+    color: #FC200C;
+    letter-spacing: -1.5px;
+    font-size: 28px;
+    width: 171px;
+    left: 674px;
+    top: 161px;
+}
+
+nav {
+    color: #222222;
+    position: absolute;
+    left: 583px;
+    top: 247px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    font-size: 23px;
+}
+
+ol {
+    position: absolute;
+    color: #222222;
+    width: 200px;
+    top: 290px;
+    left: 525px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 19px;
+}
+
+li {
+    margin: 0px 0px 10px 0px;
+}
+
+.podio {
+    position: absolute;
+    Width: 92px;
+    Height: 129px;
+    Top: 267px;
+    Left: 839px;
+}
+
+footer {
+    position: relative;
+    height: 150px;
+    width: 1024px;
+    background-color: #222222;
+}
+
+article {
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 0px 0px 0px 20px;
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 19px;
+}
+
+.pie2 {
+    position: absolute;
+    margin: 35px 42px 33px 747px;
+}
